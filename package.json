@@ -2,11 +2,14 @@
   "name": "hexlet-js",
   "version": "1.0.0",
   "description": "Мой первый проект на Хекслет",
-  "type": "modul",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Latipov Doniyor",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
